@@ -49,7 +49,17 @@
 11: Ratna : This is 11th line code. : 13:46 
 =======
 >>>>>>> d71a0d01de10ea9d057ccd23c402b6eeee909aa7
+<<<<<<< HEAD
+
+
+
+=======
 >>>>>>> 4ee6248a998f5785c0c3ee6e39e437e1c5e12dc6
 
 12. Rashmi- time - 18 oct 13:51
-13. Vishnu- 18 oct 13:56
+<<<<<<< HEAD
+14. Vishnu- 18 oct 13:56
+=======
+>>>>>>> 413634f3e651531b12355920ee9eef20940bdd00
+13: sana: This is 12th line. : 18-Oct 13:53
+>>>>>>> f120f4ffffd7652b5ef3584492ad1c08c9751278
