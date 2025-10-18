@@ -1,6 +1,9 @@
 
+<<<<<<< HEAD
+=======
 01: Mudassir: This is first line. : 18-Oct 13:30
 
+>>>>>>> 4caa1cda0053e3182f5857ef2c395dbeec975394
 
 02: Yogesh : This is second lin/ : 18-Oct 13:35
 
@@ -11,10 +14,25 @@
 03: ASWIN : THIS IS THE THIRD LINE : 18 OCT 13:32
 
 06. Keerthika - time- 18 OCT 13:35
+<<<<<<< HEAD
+07.Abinaya -time -18 oct 13.45
+=======
 
+<<<<<<< HEAD
+07. Alsamath - time- 18 oct 13:35
+=======
 7.charumathi - time - 18 oct 13:38
 
 8.vettri - time - 18 oct 13:40
 
 9.ram - time - 18 oct 13:42
+<<<<<<< HEAD
 10.arun-time-18 oct 13:42
+=======
+<<<<<<< HEAD
+>>>>>>> 4caa1cda0053e3182f5857ef2c395dbeec975394
+=======
+
+10. Sakthisri- Fake it until make it
+>>>>>>> fba63e6bdb4876c343824c335367918b3a5e7180
+>>>>>>> d71a0d01de10ea9d057ccd23c402b6eeee909aa7
