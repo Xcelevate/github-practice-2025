@@ -1,6 +1,4 @@
 
-01: Mudassir: This is first line. : 18-Oct 13:30
-<<<<<<< HEAD
 
 02: Yogesh : This is second lin/ : 18-Oct 13:35
 
@@ -12,3 +10,5 @@
 03: ASWIN : THIS IS THE THIRD LINE : 18 OCT 13:32
 
 06. Keerthika - time- 18 OCT 13:35
+
+07. Alsamath - time- 18 oct 13:35
