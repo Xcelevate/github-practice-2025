@@ -1,2 +1,6 @@
 01: Prakash: This is first line. : 18-Oct 13:17
-02: Vishnu: This is second line. : 18-oct 13:17
+<<<<<<< HEAD
+10: Vishnu: This is second line. : 18-oct 13:22
+=======
+02: Yogesh: this is second line. : 18-Oct 13:20
+>>>>>>> eb6eef0a03440e745ca2d92f58f5759a89b49ab6
