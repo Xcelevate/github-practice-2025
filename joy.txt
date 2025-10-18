@@ -23,4 +23,9 @@
 8.vettri - time - 18 oct 13:40
 
 9.ram - time - 18 oct 13:42
+<<<<<<< HEAD
 >>>>>>> 4caa1cda0053e3182f5857ef2c395dbeec975394
+=======
+
+10. Sakthisri- Fake it until make it
+>>>>>>> fba63e6bdb4876c343824c335367918b3a5e7180
