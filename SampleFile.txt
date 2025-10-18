@@ -1,5 +1,0 @@
-NBR:First Check-in:14-Oct 21:18
-NBR:Second Check-in:14-Oct 21:21
-NBR:Remote First Check-in:14-Oct 21:22
-NBR:Remote First Check-in:14-Oct 21:37
-NBR:Third Check-in:14-Oct 21:38
